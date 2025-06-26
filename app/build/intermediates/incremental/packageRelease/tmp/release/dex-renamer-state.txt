@@ -1,0 +1,4 @@
+#Mon Jun 02 18:02:38 PKT 2025
+base.0=/home/usman/Documents/nafs-mobile/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
